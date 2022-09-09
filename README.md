@@ -1,1 +1,1 @@
-# Disease-Prediction-By-Naive-Bayes-Classifier
+Disease Prediction Model using Naïve Bayes Classifier.
