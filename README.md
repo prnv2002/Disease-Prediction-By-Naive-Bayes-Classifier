@@ -1,0 +1,1 @@
+# Disease-Prediction-By-Naive-Bayes-Classifier
